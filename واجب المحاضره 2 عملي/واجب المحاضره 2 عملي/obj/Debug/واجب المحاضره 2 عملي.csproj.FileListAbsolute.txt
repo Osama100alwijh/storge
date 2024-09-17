@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\bin\Debug\واجب المحاضره 2 عملي.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\bin\Debug\واجب المحاضره 2 عملي.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\bin\Debug\واجب المحاضره 2 عملي.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\obj\Debug\واجب المحاضره 2 عملي.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\obj\Debug\واجب_المحاضره_2_عملي.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\obj\Debug\واجب_المحاضره_2_عملي.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\obj\Debug\واجب المحاضره 2 عملي.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\obj\Debug\واجب المحاضره 2 عملي.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\واجب المحاضره 2 عملي\واجب المحاضره 2 عملي\obj\Debug\واجب المحاضره 2 عملي.pdb
